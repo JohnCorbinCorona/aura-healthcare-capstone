@@ -28,3 +28,7 @@ Alternatively, open the notebook in Jupyter or Google Colab with the original CS
 The workflow covers inspection and cleaning, age and income scaling, descriptive statistics, health and region comparisons, distribution tables, categorical encoding, and visualizations. Findings describe the sample and do not establish causation.
 
 Data source: [course dataset folder](https://drive.google.com/drive/folders/1c5FUOUhE0S1mDpqEL5tbIinVx9D507IU).
+
+## Hosted website
+
+Streamlit entry point: `streamlit_app.py`. The website, full analysis, and project downloads are available through its sidebar.
